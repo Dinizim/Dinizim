@@ -4,7 +4,7 @@
 # Welcome!
 ## I'm Nicollas! Let me present a little about myself :D
 
-Student | Analysis and System Development (2°semester):
+Student | Analysis and System Development (2°semester):robot:
 
 Lover of Technology and coding :heart:
 
