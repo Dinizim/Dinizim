@@ -11,10 +11,10 @@ Hey there! I'm Nicollas, a passionate student diving into the world of Analysis 
 ## About me 
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-Code?style=flat&logo=git&logoColor=white&color=f6f6f6&labelColor=red)
 ![CLion](https://img.shields.io/badge/CLion-Code?style=flat&logo=clion&logoColor=black&color=f6f6f6&labelColor=ff62b7)
 ![Rider](https://img.shields.io/badge/rider-Code?style=flat&logo=rider&logoColor=black&color=f6f6f6&labelColor=ff62b7)
-![Vscode](https://img.shields.io/badge/VsCode-Code?style=flat&logo=Xcode&logoColor=white&color=f6f6f6&labelColor=blue)
+![Vscode](https://img.shields.io/badge/VsCode-Code?style=flat&logo=vscode&logoColor=white&color=f6f6f6&labelColor=blue)
+![Git](https://img.shields.io/badge/Git-Code?style=flat&logo=git&logoColor=white&color=f6f6f6&labelColor=red)
 
 ### Languages & Frameworks
 ![C](https://img.shields.io/badge/C-Code?style=flat&logo=C&logoColor=white&color=f6f6f6&labelColor=blue)
@@ -23,5 +23,5 @@ Hey there! I'm Nicollas, a passionate student diving into the world of Analysis 
 ![MySQL](https://img.shields.io/badge/MySQL-Code?style=flat&logo=mysql&logoColor=white&color=f6f6f6&labelColor=3366CC)
 
 
-- Thanks for visiting. 
-- Enjoy it!! o/
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003399&height=120&section=footer"/>
