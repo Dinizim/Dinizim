@@ -11,7 +11,7 @@ Hey there! I'm Nicollas, a passionate student diving into the world of Analysis 
 ## About me 
 
 ### Tools
-![CLion](https://img.shields.io/badge/CLion-Code?style=flat&logo=clion&logoColor=black&color=f6f6f6&labelColor=ff62b7)
+![CLion](https://img.shields.io/badge/CLion-Code?style=flat&logo=clion&logoColor=black&color=f6f6f6&labelColor=green)
 ![Rider](https://img.shields.io/badge/rider-Code?style=flat&logo=rider&logoColor=black&color=f6f6f6&labelColor=ff62b7)
 ![Vscode](https://img.shields.io/badge/VsCode-Code?style=flat&logo=visual%20studio%20code&logoColor=white&color=f6f6f6&labelColor=blue)
 ![Git](https://img.shields.io/badge/Git-Code?style=flat&logo=git&logoColor=white&color=f6f6f6&labelColor=red)
