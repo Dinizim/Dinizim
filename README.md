@@ -13,9 +13,8 @@ Hey there! I'm Nicollas, a passionate student diving into the world of Analysis 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-Code?style=flat&logo=git&logoColor=white&color=f6f6f6&labelColor=red)
 ![CLion](https://img.shields.io/badge/CLion-Code?style=flat&logo=clion&logoColor=black&color=f6f6f6&labelColor=ff62b7)
-![Rider](https://img.shields.io/badge/Rider-Code?style=flat&logo=pycharm&logoColor=black&color=f6f6f6&labelColor=green)
+![Rider](https://img.shields.io/badge/rider-Code?style=flat&logo=pycharm&logoColor=black&color=f6f6f6&labelColor=green)
 ![Vscode](https://img.shields.io/badge/VsCode-Code?style=flat&logo=Xcode&logoColor=white&color=f6f6f6&labelColor=blue)
-![Postman](https://img.shields.io/badge/Postman-Code.svg?style=flat&logo=postman&logoColor=white&color=f6f6f6&labelColor=orange)
 
 ### Languages & Frameworks
 ![C](https://img.shields.io/badge/C-Code?style=flat&logo=C&logoColor=white&color=f6f6f6&labelColor=blue)
