@@ -24,4 +24,4 @@ Hey there! I'm Nicollas, a passionate student diving into the world of Analysis 
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003399&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#643B9F&height=120&section=footer"/>
