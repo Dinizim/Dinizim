@@ -38,6 +38,7 @@ I have a degree in **Systems Analysis and Development** and experience working w
 ![C#](https://img.shields.io/badge/C%23-Code?style=flat&logo=c-sharp&logoColor=white&color=f6f6f6&labelColor=purple)
 ![.NET](https://img.shields.io/badge/.NET-Code?style=flat&logo=.net&logoColor=white&color=f6f6f6&labelColor=purple)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Code?style=flat&logo=javascript&logoColor=black&color=f6f6f6&labelColor=yellow)
+![Python](https://img.shields.io/badge/Python-Code?style=flat&logo=python&logoColor=white&color=f6f6f6&labelColor=3776AB)
 ![MySQL](https://img.shields.io/badge/MySQL-Code?style=flat&logo=mysql&logoColor=white&color=f6f6f6&labelColor=3366CC)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Code?style=flat&logo=postgresql&logoColor=white&color=f6f6f6&labelColor=blue)
 
